@@ -14,7 +14,7 @@
  * @date: December 18th, 2018
  *
  */
-public class BinaryTreeTesting 
+public class DataStructTesting 
 {
 	
 	public static void main(String[] args) 
@@ -89,5 +89,5 @@ public class BinaryTreeTesting
 		}
 	}
 		
-//end of class BinaryTreeTesting.java
+//end of class DataStructTesting.java
 }
